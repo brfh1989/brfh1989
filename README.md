@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm currently learning about data science and I would love to colaborate in the field of energy.
 <!--
 **brfh1989/brfh1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
